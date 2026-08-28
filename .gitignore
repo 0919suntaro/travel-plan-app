@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/favorites.json
+*.log
+
+# Claude Code local tooling artifacts (not part of the app)
+.claude/
+.agents/
+skills-lock.json
+security-audit-workspace/
